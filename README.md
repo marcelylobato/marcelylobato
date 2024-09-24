@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando HTML, CSS, Phyton e IA para Devs
-- 💬 Contate-me no e-mail: marcely.lobat@gmail.com- 📫 How to reach me: ...
+- 💬 Contate-me no e-mail: marcely.lobat@gmail.com
 - EstudandoFront-End no Santander Coder<div> <a href="https://ada.tech/sou-aluno/programas/santander-coders-2024)" target="_blank"></a> </div>
 - 😄 Pronouns: ela/dela
 
