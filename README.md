@@ -1,5 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcely Lobato</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelylobatoo&color=pink" alt="Profile views" /> </p>
+<h1 align="left">Hi <img src="[https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif") height="30px"> Devs! I'm Marcely Lobato 👨‍💻 </h1>
 
 
 - 🌱 Sou apaixonada por Tecnologia 
